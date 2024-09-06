@@ -1,0 +1,35 @@
+_repo: Letters-written-in-France-to-a-friend-in-London-between-the-month-of-November-1794-and-the-mo__74234
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tench, Watkin
+    deathdate: 1833
+    gutenberg_agent_id: '1222'
+    url: http://www.gutenberg.org/2009/agents/1222
+    wikipedia: https://en.wikipedia.org/wiki/Watkin_Tench
+description: ''
+gutenberg_issued: '2024-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74234'
+  lccn: '01002232'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/nyp.33433069329757
+pgterms:marc905: 20220111201041tench
+pgterms:marc906: '1796'
+pgterms:marc907: GB
+production_note: Chuck Greif, MWS and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This book was produced from images made available by the HathiTrust
+  Digital Library.)
+publication_note: '  $aLondon :$bJ. Johnson, $c1796.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tench, Watkin, 1759?-1833 -- Correspondence'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Personal narratives, British'
+- !lcc 'DC'
+- GITenberg
+title: Letters written in France, to a friend in London, between the month of November
+  1794, and the month of May 1795
+url: http://www.gutenberg.org/ebooks/74234
