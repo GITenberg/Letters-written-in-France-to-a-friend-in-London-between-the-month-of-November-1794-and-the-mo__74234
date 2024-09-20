@@ -1,5 +1,8 @@
 _repo: Letters-written-in-France-to-a-friend-in-London-between-the-month-of-November-1794-and-the-mo__74234
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74234-h/images/cover.jpg
 creator:
   author:
     agent_name: Tench, Watkin
@@ -8,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1222
     wikipedia: https://en.wikipedia.org/wiki/Watkin_Tench
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74234#Letters-written-in-France-to-a-friend-in-London-between-the-month-of-November-1794-and-the-mo_
 gutenberg_issued: '2024-08-12'
 gutenberg_type: Text
 identifiers:
